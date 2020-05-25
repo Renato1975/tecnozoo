@@ -1,0 +1,9 @@
+.mt-1 {
+  margin-top: ($spacer * .25) !important;
+}
+
+.img-size{
+  width: 300px;  
+  height: 300px ; 
+
+}
